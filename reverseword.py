@@ -4,4 +4,4 @@ def reverseword(w):
         for i in range(len(w)-1, -1,-1 ):
              ans+=w[i]
         return ans
-print(reverseword(w))
+print(reverseword(w))gi
